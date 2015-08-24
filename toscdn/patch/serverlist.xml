@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<serverlist>
+	<statistics Ip="127.0.0.1" Port="10001"/>
+
+	<!-- localhost R1EMU server -->
+	<server GROUP_ID="100" TRAFFIC="0" ENTER_LIMIT="100" NAME="R1EMU (localhost)" Server0_IP="127.0.0.1" Server0_Port="2000" Server1_IP="None" Server1_Port="None"/>
+</serverlist>
